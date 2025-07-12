@@ -30,5 +30,6 @@ The project demonstrates core game programming concepts such as:
   ## Video Demo
 
 You can watch a short video demonstration of the project here:  
-[[https://your-video-link.com](https://drive.google.com/file/d/1JDbXbJzrESGC6mVwMrmqH9MEIKQ4IsQ8/view?usp=sharing)]([https://your-video-link.com](https://drive.google.com/file/d/1JDbXbJzrESGC6mVwMrmqH9MEIKQ4IsQ8/view?usp=sharing))
+[Snake Game Demo Video](https://drive.google.com/file/d/1JDbXbJzrESGC6mVwMrmqH9MEIKQ4IsQ8/view?usp=sharing)
+
 
